@@ -1,0 +1,49 @@
+:root[data-theme="light"] {
+  --bg-color-primary: #ffffff;
+  --bg-color-secondary: #dbe8ff;
+  --bg-color-tertiary: #c3d4ff;
+
+  --header-primary: #3d3d3d;
+
+  --link-primary: #1f1f1f;
+  --link-secondary: #505050;
+
+  --btn-primary: linear-gradient(94.07deg, #658cef 0%, #6771ec 100%);
+  --btn-secondary: linear-gradient(94.07deg, #658cef 0%, #6771ec 100%);
+  --btn-three: #93a4d9;
+
+  --btn-color-primary: #ffffff;
+  --btn-color-secondary: #fff;
+
+  --border-navbar: #d9d9d9;
+}
+
+:root[data-theme="dark"] {
+  --bg-color-primary: #11141f;
+  --bg-color-secondary: #1a1f30;
+  --bg-color-tertiary: #1f2438;
+
+  --border-color-secondary: #232a44;
+
+  --header-primary: #dce4ff;
+
+  --link-primary: #fff;
+  --link-secondary: #9ca7bb;
+
+  --in-se--primary: #a7b9ec;
+
+  --p-primary: #d7e6ff;
+
+  --btn-primary: linear-gradient(94.07deg, #59eece 0%, #58d7e8 100%);
+  --btn-secondary: linear-gradient(94.07deg, #50ceb2 0%, #49b0be 100%);
+  --btn-three: #232a42;
+
+  --btn-color-primary: #252525;
+  --btn-color-secondary: #fff;
+
+  --border-navbar: #1f2433;
+}
+
+:root {
+  --size-mw: 1400px;
+}

@@ -1,0 +1,41 @@
+.wrapper {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  .title {
+    h1 {
+      color: var(--header-primary);
+      font-size: 34px;
+    }
+  }
+
+  .link {
+    max-width: 1400px;
+    width: 100%;
+    margin: 35px auto;
+    a {
+      margin-left: 100px;
+      display: flex;
+      align-items: center;
+      height: 50px;
+
+      img {
+        height: 100%;
+      }
+
+      h2 {
+        color: var(--header-primary);
+        margin-left: 15px;
+        font-weight: 600;
+        font-size: 24px;
+      }
+
+      span {
+        font-weight: 600;
+      }
+    }
+  }
+}

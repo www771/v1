@@ -1,0 +1,15 @@
+{
+  "navbar.home": "Home",
+  "navbar.stacking": "Stacking",
+  "navbar.p2p": "P2P",
+  "navbar.qr": "QR Code",
+  "navbar.faq": "FAQ",
+  "navbar.connect": "Connect Wallet",
+  "navbar.language.en": "English",
+  "navbar.language.ru": "Русский",
+  "main.welcome_section.header": "Full secure exchange",
+  "main.welcome_section.description": "Decentralized exchange system implemented through a system of smart-contracts allows you to make exchanges as quickly, cheaply, anonymously and safely. P2dex has no access to users' funds, which makes it possible to guarantee secure transactions.",
+  "main.welcome_section.start": "Start an exchange",
+
+  "main.partner_section.header": "Our partner"
+}

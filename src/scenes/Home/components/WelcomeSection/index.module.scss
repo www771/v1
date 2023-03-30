@@ -1,0 +1,45 @@
+.section {
+  width: 90%;
+  margin: 0 auto;
+  height: 700px;
+  background-color: var(--bg-color-secondary);
+  border-radius: 20px;
+  border: 1.5px solid var(--border-color-secondary);
+
+  .block {
+    height: 100%;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    .info {
+      width: 600px;
+
+      h1 {
+        font-size: 32px;
+        color: var(--header-primary);
+      }
+
+      p {
+        margin-top: 5px;
+        font-size: 19px;
+        color: var(--p-primary);
+        line-height: 25px;
+        margin-bottom: 22px;
+      }
+
+      button {
+        a {
+          padding: 10px 23px;
+          background: var(--btn-primary);
+          color: var(--btn-color-primary);
+          font-weight: 500;
+          font-size: 15px;
+          border-radius: 5px;
+        }
+      }
+    }
+  }
+}

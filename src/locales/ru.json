@@ -1,0 +1,15 @@
+{
+  "navbar.home": "Главная",
+  "navbar.stacking": "Стейкинг",
+  "navbar.p2p": "P2P",
+  "navbar.qr": "QR Код",
+  "navbar.faq": "FAQ",
+  "navbar.connect": "Войти",
+  "navbar.language.en": "English",
+  "navbar.language.ru": "Русский",
+
+  "main.welcome_section.header": "Безопасный обмен",
+  "main.welcome_section.description": "Децентрализованная система обмена, реализованная через систему смарт-контрактов, позволяет совершать обмены максимально быстро, дешево, анонимно и безопасно. P2dex не имеет доступа к средствам пользователей, что позволяет гарантировать безопасность транзакций.",
+  "main.welcome_section.start": "Начать обмен",
+  "main.partner_section.header": "Наши партнеры"
+}

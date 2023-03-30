@@ -1,0 +1,16 @@
+.wrapper {
+  max-width: 1300px;
+  width: 100%;
+  margin: 30px auto;
+  display: flex;
+  justify-content: space-between;
+
+  .card {
+    width: 360px;
+
+    img {
+      border-radius: 15px;
+      width: 100%;
+    }
+  }
+}
